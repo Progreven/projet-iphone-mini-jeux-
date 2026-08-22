@@ -1,0 +1,12 @@
+JEUX SOIRÉE — V3.2 (build 11)
+
+Correction ciblée du tour de la Sorcière :
+- suppression du bouton séparé de potion de vie ;
+- la victime des Loups reste indiquée en rouge ;
+- toucher la victime des Loups sélectionne/annule la sauvegarde et l'affiche en vert « Sauvé(e) » ;
+- toucher une autre personne sélectionne/annule la potion de mort et l'affiche en violet « Poison » ;
+- les deux choix peuvent être utilisés la même nuit si les deux potions sont encore disponibles ;
+- une potion déjà consommée ne peut plus être sélectionnée ;
+- le bouton « Valider les choix » applique les consommations puis poursuit la nuit.
+
+Aucun autre comportement du jeu n'a été modifié.
