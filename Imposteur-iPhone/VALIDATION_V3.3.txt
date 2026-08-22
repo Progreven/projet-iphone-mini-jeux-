@@ -1,0 +1,21 @@
+VALIDATION V3.3
+===============
+
+PASS 1 — Régression / syntaxe
+- Tous les fichiers Swift passent swiftc -frontend -parse.
+- Modules Imposteur, HeadsUp et App inchangés byte-for-byte par rapport à V3.2.
+- Bundle ID inchangé.
+- Version 3.3 / build 12.
+
+PASS 2 — Tests ciblés du moteur Werewolf
+- Sauver puis sélectionner poison : poison remplace le sauvetage.
+- Poison puis sélectionner sauver : sauvetage remplace le poison.
+- Une seule potion consommée par nuit.
+- Deux amoureux morts dans la même nuit : deux annonces successives et rôles corrects.
+- Vote : annonce du rôle avant le démarrage de la nuit suivante.
+- Chasseur : annonce de sa mort avant le tir, puis annonce de sa cible.
+- Aucune mort nocturne : aucun écran d'annonce inutile.
+
+STRESS
+- 10 000 séquences aléatoires Sorcière : aucun état avec les deux potions sélectionnées simultanément.
+- 5 000 cycles aléatoires d'annonces jour/nuit : aucun décalage entre morts et annonces.

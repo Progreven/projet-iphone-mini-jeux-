@@ -1,0 +1,9 @@
+VALIDATION V3.2
+
+1) Analyse syntaxique de tous les fichiers Swift : OK.
+2) Tests ciblés Sorcière : sauvegarde, poison, annulation, deux potions la même nuit, potions déjà utilisées, réveil du village : OK.
+3) Régression des tests ciblés V3.1 Werewolf : OK.
+4) Stress : 10 000 scénarios aléatoires d'interaction Sorcière sans violation des invariants : OK.
+5) Comparaison avec V3.1 : seuls WerewolfStore.swift, WerewolfViews.swift et la version du projet ont changé côté application.
+
+Le build Xcode iOS réel reste effectué par GitHub Actions.

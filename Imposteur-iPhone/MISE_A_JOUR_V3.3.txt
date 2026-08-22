@@ -1,0 +1,21 @@
+JEUX SOIRÉE — V3.3 / BUILD 12
+================================
+
+Modifications Werewolf uniquement :
+
+1. SORCIÈRE
+- Une seule potion maximum peut être utilisée par nuit.
+- Toucher la victime rouge = choisir/annuler le sauvetage.
+- Toucher une autre personne = choisir/annuler le poison.
+- Choisir l'autre action remplace automatiquement le choix précédent.
+- Les potions restent chacune utilisables une seule fois dans toute la partie.
+
+2. ANNONCE DES MORTS
+- Au réveil, chaque personne morte pendant la nuit est annoncée séparément.
+- L'écran montre le prénom, l'illustration du rôle, le rôle exact et la cause.
+- S'il y a plusieurs morts (poison, amoureux, etc.), le MJ avance une personne à la fois.
+- Les résolutions obligatoires (Chasseur, succession du Maire, victoire) interviennent après les annonces.
+- Après le vote du village, le joueur éliminé est également annoncé avec son rôle avant la suite.
+- Les morts provoquées ensuite par le Chasseur sont elles aussi annoncées avant de continuer.
+
+Imposteur, Heads Up et le reste de Werewolf ne sont pas modifiés.
