@@ -1,0 +1,28 @@
+JEUX SOIRÉE — V3.0 / BUILD 9
+
+Nouveau mini-jeu : WEREWOLF (Loup-Garou)
+
+Les modules Imposteur V1.4 et Heads Up V2.1.1 sont conservés sans modification de leur code ni de leurs ressources.
+
+Werewolf ajoute :
+- Accueil : Nouvelle partie / Règles / Personnages.
+- Set de base uniquement : Villageois, Loup-Garou, Voyante, Sorcière, Chasseur, Cupidon, Petite Fille, Voleur.
+- Villageois et Loups-Garous répétables ; autres rôles uniques.
+- Nombre de rôles obligatoirement égal au nombre de joueurs.
+- Noms personnalisés et attribution aléatoire.
+- Distribution privée des cartes avec illustration, nom du rôle et explication courte.
+- Passage explicite du téléphone au Maître du Jeu.
+- Assistant de nuit guidé : Village endormi > Voleur > Cupidon > Amoureux > Voyante > Loups > Sorcière > Réveil.
+- Voleur : variante maison, échange son rôle avec celui d’un autre joueur.
+- Loups-Garous : règle maison autorisant à cibler également un Loup-Garou.
+- Petite Fille : rappel pendant le tour des Loups et option « repérée », auquel cas elle remplace la victime.
+- Sorcière : mémorisation des deux potions et victime des Loups signalée en rouge.
+- Chasseur : résolution obligatoire du dernier tir avant la suite de la partie.
+- Amoureux : lien enregistré, mort en chaîne et victoire spéciale du couple mixte s’il reste seul.
+- Maire : élection au premier jour, badge, vote double rappelé dans les règles, succession en cas de mort si la partie continue.
+- Tableau de bord secret du MJ : Village en vert, Loups en rouge, Amoureux avec sur-contour rose, Maire avec badge.
+- Règles et Personnages accessibles rapidement pendant la journée.
+- Élimination du vote avec confirmation.
+- Victoires : Village si aucun Loup ne survit, Loups si aucun membre du Village ne survit, Amoureux mixtes s’ils sont les deux derniers.
+
+Illustrations : les neuf cartes validées par l’utilisateur ont été reprises telles quelles depuis la planche approuvée, découpées sans régénération, et stockées dans Werewolf/WerewolfAssets.xcassets.

@@ -1,0 +1,20 @@
+Jeux Soirée — Validation V2.1.1
+
+Correction testée : cooldown Heads Up après chaque inclinaison validée.
+
+Contrôles effectués :
+- parsing syntaxique de tous les fichiers Swift : OK
+- tests HeadsUpCoreTests : OK
+- 5 bibliothèques x 100 cartes : OK
+- mode Tous les thèmes : 497 cartes uniques : OK
+- bonne réponse vers le haut : OK
+- skip vers le bas : OK
+- cooldown de 1 seconde : OK
+- aucun geste opposé accepté pendant le cooldown : OK
+- retour en zone neutre obligatoire après le cooldown : OK
+- stress test sur 38 scénarios (19 angles de départ x 2 directions) : OK
+- comparaison avec la V2.1 corrigée : seuls HeadsUpLogic.swift, le numéro de version/build et les tests ont changé.
+
+Version : 2.1.1
+Build : 8
+Bundle ID : com.julien.imposteur

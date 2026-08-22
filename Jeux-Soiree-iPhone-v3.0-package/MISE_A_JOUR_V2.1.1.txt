@@ -1,0 +1,11 @@
+Jeux Soirée — V2.1.1
+
+Correction ciblée Heads Up :
+- cooldown de 1,0 seconde après chaque bonne réponse ou skip ;
+- aucun geste opposé ne peut être enregistré pendant le retour du téléphone ;
+- après le cooldown, le téléphone doit être revenu en zone neutre pendant au moins 3 mesures avant réarmement ;
+- aucun autre comportement de l’application n’a été modifié.
+
+Version : 2.1.1
+Build : 8
+Bundle ID : com.julien.imposteur
