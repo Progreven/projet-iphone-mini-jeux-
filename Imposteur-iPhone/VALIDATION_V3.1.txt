@@ -1,0 +1,16 @@
+VALIDATION V3.1
+
+- 27 fichiers Swift : analyse syntaxique réussie.
+- Imposteur : inchangé par rapport à la V3.0.
+- Heads Up : inchangé par rapport à la V3.0.
+- Hub/App : inchangé par rapport à la V3.0.
+- 9 scénarios fonctionnels ciblés Voleur/Maire/Journée : réussis.
+- 2 000 échanges aléatoires du Voleur : réussis.
+- 5 000 déroulements aléatoires de journée/résolutions : réussis.
+- Vérification : aucun second vote accepté pendant la même journée.
+- Vérification : succession du Maire avant la nuit.
+- Vérification : tir du Chasseur avant la nuit.
+- Vérification : victoire prioritaire sur le démarrage d'une nouvelle nuit.
+- Règle « vote du Maire compte double » supprimée de tous les textes Werewolf.
+
+Limite de l'environnement de test : le build Xcode/iOS réel reste effectué par GitHub Actions.
